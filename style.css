@@ -14,9 +14,82 @@
     color:#FF136F;
 }
 .buy-now-button {
-	background-image: linear-gradient(to bottom,#DA4775 0%,#C7060C 100%);
+	background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
 	padding: 4px 8px;
 	color: #ffff;
 	border-radius: 8px;
-	cursor: pointer;
+    cursor: pointer;
+}
+.watch-bg{
+    background-image: linear-gradient(to right,#FF9C35,#FFD019);
+   
+}
+.bag-bg{
+    background-image: linear-gradient(to right,#FF136F,#FF589B);
+    
+}
+.shoes-bg{
+    background-image: linear-gradient(to right,#4289FF,#07F8C3);
+    
+}
+.cat{
+padding: 10px 30px;
+border-radius: 10px;
+}
+.categories{
+    margin-top: 100px;
+    cursor: pointer;
+}
+.categories,h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.bag{
+    width: 10px;
+}
+.card {
+	box-shadow: 5px 5px 10px #D6D6D6D6;
+	border: none;
+}
+.card1{
+    margin-top: 80px;
+
+}
+
+.card2{
+    margin-top:80px;
+}
+.others,h1{
+    color: black;
+}
+.watch{
+    background-image: linear-gradient(to right,#FF9C35,#FFD019);
+}
+.button2 {
+	margin-right: 127px;
+	background-image: linear-gradient(to bottom,rgb(219, 26, 171),rgb(157, 220, 236));
+	border-radius: 6px;
+	padding: 3px 16px;
+	color: #fff;
+}
+
+
+.submit {
+	margin-right: 314px;
+}
+.input {
+	margin-right: 176px;
+}
+.peragrahp {
+	margin-right: 104px;
+}
+#subsribe {
+	height: 300px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.footer p {
+	text-align: center;
 }
